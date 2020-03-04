@@ -1,1 +1,1 @@
-# snyk-test-yuri
+# test-yuri
